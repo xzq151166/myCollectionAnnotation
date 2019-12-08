@@ -1,1 +1,2 @@
 # myCollectionAnnotation
+此工程是用来收集注解信息的核心方法
